@@ -1,0 +1,27 @@
+06/06/2022 09:42:47 a. m. - ------------------------Request---------------------
+Buscando dispositivos de Telmar2022
+------------------------- Dispositivos encontrados: 1-------------------------
+7f9108e0-2ca2-d5f1-d07f-89fc1ad051ca
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>09AN2F</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>MARIA ELENA MACRINA GUTIERREZ MAYORGA</name>
+    </customer>
+    <date>2022-06-06T14:42:39</date>
+    <direction>Tequixquiac Centro, 55650 Tequixquiac, EDOMEX, México</direction>
+    <ignition>TRUE</ignition>
+    <latitude>19.917279</latitude>
+    <longitude>-99.143564</longitude>
+    <odometer>3170</odometer>
+    <speed>28</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 14804369077
+

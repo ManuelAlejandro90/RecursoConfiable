@@ -1,0 +1,13 @@
+03/06/2022 01:20:36 p. m. - 
+03/06/2022 01:21:48 p. m. - 
+03/06/2022 01:23:01 p. m. - 
+03/06/2022 01:24:34 p. m. - ------------------------Request---------------------
+Buscando dispositivos de MariaElena
+------------------------- Dispositivos encontrados: 0-------------------------
+Sin dispositivos
+
+03/06/2022 01:26:31 p. m. - ------------------------Request---------------------
+Buscando dispositivos de MariaE
+------------------------- Dispositivos encontrados: 0-------------------------
+Sin dispositivos
+

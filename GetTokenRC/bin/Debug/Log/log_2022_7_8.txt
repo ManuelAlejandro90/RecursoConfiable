@@ -1,0 +1,141 @@
+08/07/2022 04:42:56 p. m. - No se puede encontrar una parte de la ruta de acceso 'C:\Users\Administrator\Documents\WSTrasportesGonzalez\Clientes\clientes.txt'.
+08/07/2022 04:43:03 p. m. - 
+08/07/2022 04:45:35 p. m. - ------------------------Request---------------------
+Buscando dispositivos de TRANSPORTESLUZRC
+------------------------- Dispositivos encontrados: 8-------------------------
+d1201c17-d692-5edb-5610-ffbe9f0f3609
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>70UN7L</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-07-07T06:27:36</date>
+    <direction>MEX-15D, La Loma, 84600 Santa Ana, SON, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>30.538599</latitude>
+    <longitude>-111.11456</longitude>
+    <odometer>48802</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>98AV8D</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-07-08T21:39:45</date>
+    <direction>Ojo de Agua de Palmillas, 82580 Escuinapa, SIN, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>22.624282</latitude>
+    <longitude>-105.602709</longitude>
+    <odometer>91683</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LF50490</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-07-08T21:41:17</date>
+    <direction>MEX-15, 63000 Tepic, NAY, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>21.699874</latitude>
+    <longitude>-105.052677</longitude>
+    <odometer>13712</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>97AV8D</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-07-08T21:36:20</date>
+    <direction>Calle 1 Poniente, Ciudad Industrial Chilpancingo, 22444 Tijuana, BC, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>32.542449</latitude>
+    <longitude>-116.917086</longitude>
+    <odometer>243809</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LD49429</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-07-08T21:45:00</date>
+    <direction>Calzada Ignacio Zaragoza, Pueblo Santa Martha Acatitla, 09510 Iztapalapa, CDMX, México</direction>
+    <ignition>TRUE</ignition>
+    <latitude>19.370616</latitude>
+    <longitude>-99.01379</longitude>
+    <odometer>35509</odometer>
+    <speed>39</speed>
+  </Event>
+  <Event>
+    <asset>LC48620</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-07-04T15:54:10</date>
+    <direction>Calle Ejido de Guadalupe, Santa Bárbara, 54713 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.723231</latitude>
+    <longitude>-99.179575</longitude>
+    <odometer>97020</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LB96718</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-07-08T21:39:28</date>
+    <direction>Calle Geranios 213B, Lomas del Lago, 54476 Villa Nicolás Romero, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.605724</latitude>
+    <longitude>-99.270475</longitude>
+    <odometer>13957</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LC33576</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-07-08T21:40:30</date>
+    <direction>Fraccionamiento Villas de la Laguna, 55614 Zumpango, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.83457</latitude>
+    <longitude>-99.095418</longitude>
+    <odometer>19693</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 15687127602
+

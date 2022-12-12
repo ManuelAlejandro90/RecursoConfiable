@@ -1,0 +1,584 @@
+06/04/2022 09:56:22 a. m. - Buscando dispositivos de MOGREFRIGERACION
+------------------------- Dispositivos encontrados: 7-------------------------
+83e9c51b-f9c5-c991-d4db-76e02d422275
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>82AM9E</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T14:48:38</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747899</latitude>
+    <longitude>-99.228711</longitude>
+    <odometer>0</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>46AA1J</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T14:48:09</date>
+    <direction>Parque Industrial La Luz, 54713 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.69489</latitude>
+    <longitude>-99.201528</longitude>
+    <odometer>1687</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>79AX9C</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T14:47:24</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747902</latitude>
+    <longitude>-99.228818</longitude>
+    <odometer>3580</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>15AK6C</asset>
+    <code>0</code>
+    <course>Oeste</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T14:55:12</date>
+    <direction>Autopista México-Querétaro, Parque Industrial San Martín Obispo, 54769 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>TRUE</ignition>
+    <latitude>19.599887</latitude>
+    <longitude>-99.201025</longitude>
+    <odometer>6319</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>398DH7</asset>
+    <code>0</code>
+    <course>Noreste</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T14:55:47</date>
+    <direction>Avenida León de los Aldama 3216, San Felipe de Jesús, 07510 Gustavo A Madero, CDMX, México</direction>
+    <ignition>TRUE</ignition>
+    <latitude>19.499362</latitude>
+    <longitude>-99.075162</longitude>
+    <odometer>3</odometer>
+    <speed>25</speed>
+  </Event>
+  <Event>
+    <asset>07AH1N</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T14:49:23</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747863</latitude>
+    <longitude>-99.228757</longitude>
+    <odometer>7506</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>87AT4K</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T14:48:47</date>
+    <direction>Calle Tabasco, El Satélite, 42153 Ajacuba, HGO, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>20.098768</latitude>
+    <longitude>-99.114126</longitude>
+    <odometer>2711</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 13472026472
+Buscando dispositivos de TRANSPORTESLUZRC
+------------------------- Dispositivos encontrados: 10-------------------------
+d1201c17-d692-5edb-5610-ffbe9f0f3609
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>AN9NAY</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2021-09-23T05:49:32</date>
+    <direction>Calle Héroes de Carranza 3, Tepeyac, 43804 Tizayuca, HGO, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.846037</latitude>
+    <longitude>-98.971467</longitude>
+    <odometer>290117</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>98AV8D</asset>
+    <code>0</code>
+    <course>Sureste</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T14:55:47</date>
+    <direction>MEX-15D, 82700 Elota, SIN, México</direction>
+    <ignition>TRUE</ignition>
+    <latitude>23.840822</latitude>
+    <longitude>-106.884592</longitude>
+    <odometer>30617</odometer>
+    <speed>76</speed>
+  </Event>
+  <Event>
+    <asset>S/P</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T14:56:02</date>
+    <direction>Circuito Industria Farmacéutica, Emiliano Zapata, 52110 Lerma de Villada, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.290791</latitude>
+    <longitude>-99.538233</longitude>
+    <odometer>18659</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>98AV8D</asset>
+    <code>0</code>
+    <course>Sureste</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T14:55:47</date>
+    <direction>MEX-15D, 82700 Elota, SIN, México</direction>
+    <ignition>TRUE</ignition>
+    <latitude>23.840732</latitude>
+    <longitude>-106.884602</longitude>
+    <odometer>54375</odometer>
+    <speed>76</speed>
+  </Event>
+  <Event>
+    <asset>S/P</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T14:51:47</date>
+    <direction>Avenida Coapa, Santa Bárbara, 54713 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.711432</latitude>
+    <longitude>-99.182143</longitude>
+    <odometer>10935</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>S/P</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T14:51:54</date>
+    <direction>Ote. Jardines del Pedregal, 04500 Coyoacán, CDMX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.3035</latitude>
+    <longitude>-99.190664</longitude>
+    <odometer>28343</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LC48620</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T14:50:07</date>
+    <direction>Avenida Coapa, Santa Bárbara, 54713 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.711347</latitude>
+    <longitude>-99.182131</longitude>
+    <odometer>97004</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>PD</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T14:49:07</date>
+    <direction>Carretera Ixmiquilpan-Actopan, Déxtho de Victoria, 42644 San Salvador, HGO, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>20.327278</latitude>
+    <longitude>-99.0235</longitude>
+    <odometer>216861</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LB96718</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T14:50:35</date>
+    <direction>Avenida Coapa, Santa Bárbara, 54713 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.711402</latitude>
+    <longitude>-99.181926</longitude>
+    <odometer>13669</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LC33576</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-02-16T04:10:54</date>
+    <direction>Avenida Coapa, Santa Bárbara, 54713 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.711282</latitude>
+    <longitude>-99.182153</longitude>
+    <odometer>19023</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 13472029287
+
+06/04/2022 10:01:31 a. m. - ---------------------------------------------
+Buscando dispositivos de MOGREFRIGERACION
+------------------------- Dispositivos encontrados: 7-------------------------
+83e9c51b-f9c5-c991-d4db-76e02d422275
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>82AM9E</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T14:58:38</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747899</latitude>
+    <longitude>-99.228711</longitude>
+    <odometer>0</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>46AA1J</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T14:58:09</date>
+    <direction>Parque Industrial La Luz, 54713 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.69489</latitude>
+    <longitude>-99.201528</longitude>
+    <odometer>1687</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>79AX9C</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T14:57:24</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747902</latitude>
+    <longitude>-99.228818</longitude>
+    <odometer>3580</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>15AK6C</asset>
+    <code>0</code>
+    <course />
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T15:01:12</date>
+    <direction>Autopista Chamapa-Lechería, Parque Industrial San Martín Obispo, 54769 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>TRUE</ignition>
+    <latitude>19.60128</latitude>
+    <longitude>-99.202128</longitude>
+    <odometer>6319</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>398DH7</asset>
+    <code>0</code>
+    <course />
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T15:00:38</date>
+    <direction>Anillo Periférico, Nueva Atzacoalco, 07420 Gustavo A Madero, CDMX, México</direction>
+    <ignition>TRUE</ignition>
+    <latitude>19.508318</latitude>
+    <longitude>-99.087878</longitude>
+    <odometer>5</odometer>
+    <speed>66</speed>
+  </Event>
+  <Event>
+    <asset>07AH1N</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T14:59:23</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747863</latitude>
+    <longitude>-99.228757</longitude>
+    <odometer>7506</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>87AT4K</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-04-06T14:58:47</date>
+    <direction>Calle Tabasco, El Satélite, 42153 Ajacuba, HGO, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>20.098768</latitude>
+    <longitude>-99.114126</longitude>
+    <odometer>2711</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 13472105130
+---------------------------------------------
+Buscando dispositivos de TRANSPORTESLUZRC
+------------------------- Dispositivos encontrados: 10-------------------------
+d1201c17-d692-5edb-5610-ffbe9f0f3609
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>AN9NAY</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2021-09-23T05:49:32</date>
+    <direction>Calle Héroes de Carranza 3, Tepeyac, 43804 Tizayuca, HGO, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.846037</latitude>
+    <longitude>-98.971467</longitude>
+    <odometer>290117</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>98AV8D</asset>
+    <code>0</code>
+    <course>Sureste</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T15:01:09</date>
+    <direction>MEX-15D, 82700 Elota, SIN, México</direction>
+    <ignition>TRUE</ignition>
+    <latitude>23.783858</latitude>
+    <longitude>-106.85383</longitude>
+    <odometer>30624</odometer>
+    <speed>76</speed>
+  </Event>
+  <Event>
+    <asset>S/P</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T14:56:02</date>
+    <direction>Circuito Industria Farmacéutica, Emiliano Zapata, 52110 Lerma de Villada, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.290791</latitude>
+    <longitude>-99.538233</longitude>
+    <odometer>18659</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>98AV8D</asset>
+    <code>0</code>
+    <course>Sureste</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T15:01:09</date>
+    <direction>MEX-15D, 82700 Elota, SIN, México</direction>
+    <ignition>TRUE</ignition>
+    <latitude>23.7838</latitude>
+    <longitude>-106.85379</longitude>
+    <odometer>54382</odometer>
+    <speed>76</speed>
+  </Event>
+  <Event>
+    <asset>S/P</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T14:51:47</date>
+    <direction>Avenida Coapa, Santa Bárbara, 54713 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.711432</latitude>
+    <longitude>-99.182143</longitude>
+    <odometer>10935</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>S/P</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T14:51:54</date>
+    <direction>Ote. Jardines del Pedregal, 04500 Coyoacán, CDMX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.3035</latitude>
+    <longitude>-99.190664</longitude>
+    <odometer>28343</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LC48620</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T15:00:07</date>
+    <direction>Avenida Coapa, Santa Bárbara, 54713 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.711354</latitude>
+    <longitude>-99.182142</longitude>
+    <odometer>97004</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>PD</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T14:59:07</date>
+    <direction>Carretera Ixmiquilpan-Actopan, Déxtho de Victoria, 42644 San Salvador, HGO, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>20.327349</latitude>
+    <longitude>-99.02344</longitude>
+    <odometer>216861</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LB96718</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-04-06T15:00:35</date>
+    <direction>Avenida Coapa, Santa Bárbara, 54713 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.711402</latitude>
+    <longitude>-99.181926</longitude>
+    <odometer>13669</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LC33576</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>Transportes Luz</name>
+    </customer>
+    <date>2022-02-16T04:10:54</date>
+    <direction>Avenida Coapa, Santa Bárbara, 54713 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.711282</latitude>
+    <longitude>-99.182153</longitude>
+    <odometer>19023</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 13472106129
+

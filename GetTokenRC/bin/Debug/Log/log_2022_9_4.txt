@@ -1,0 +1,1174 @@
+04/09/2022 01:35:01 p. m. - 
+04/09/2022 01:41:56 p. m. - 
+04/09/2022 01:55:25 p. m. - Referencia a objeto no establecida como instancia de un objeto.
+04/09/2022 01:55:26 p. m. - Error al intentar obtener token: usuario: TGONZALEZ
+
+04/09/2022 01:58:16 p. m. - ------------------------Request---------------------
+Buscando dispositivos de rdz
+------------------------- Dispositivos encontrados: 0-------------------------
+Sin dispositivos
+------------------------Request---------------------
+Buscando dispositivos de Angelmercado
+------------------------- Dispositivos encontrados: 8-------------------------
+
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>28AS4E</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:56:58</date>
+    <direction />
+    <ignition>TRUE</ignition>
+    <latitude>19.618527</latitude>
+    <longitude>-99.001613</longitude>
+    <odometer>215678</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LE45752</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-01T22:27:34</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.840216</latitude>
+    <longitude>-99.086837</longitude>
+    <odometer>231829</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LE42991</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:42:25</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.429172</latitude>
+    <longitude>-98.946191</longitude>
+    <odometer>258307</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LD70063</asset>
+    <code>21</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:38:04</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.840207</latitude>
+    <longitude>-99.086771</longitude>
+    <odometer>432419</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LD79354</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:39:45</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.59354</latitude>
+    <longitude>-99.286091</longitude>
+    <odometer>280949</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>74AG2C</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:46:47</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.49817</latitude>
+    <longitude>-99.204148</longitude>
+    <odometer>353462</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>87AR6T</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:48:13</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.2735498</latitude>
+    <longitude>-99.4852997</longitude>
+    <odometer>299444</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LE45757</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:41:36</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.629045</latitude>
+    <longitude>-99.097243</longitude>
+    <odometer>84435</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+login: El valor del parámetro `token` no debe estar vacio.
+idJob: 0
+
+04/09/2022 01:59:36 p. m. - ------------------------Request---------------------
+Buscando dispositivos de TGONZALEZ
+------------------------- Dispositivos encontrados: 22-------------------------
+5e55dcdc-a2d3-1159-cbc0-de05d15892f0
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>80AB7C</asset>
+    <code>0</code>
+    <course>Suroeste</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2021-10-20T15:32:58</date>
+    <direction />
+    <ignition>TRUE</ignition>
+    <latitude>19.195915</latitude>
+    <longitude>-103.747607</longitude>
+    <odometer>3579</odometer>
+    <speed>88</speed>
+  </Event>
+  <Event>
+    <asset>NA</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-03T05:33:49</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.6313156</latitude>
+    <longitude>-100.1188844</longitude>
+    <odometer>134876</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>NA</asset>
+    <code>32</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-03-22T19:04:41</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.6311833</latitude>
+    <longitude>-100.1186384</longitude>
+    <odometer>177127</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>38AD8J</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:56:22</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.630942</latitude>
+    <longitude>-100.118214</longitude>
+    <odometer>56658</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>HE9278C</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-07-24T07:37:08</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.673248</latitude>
+    <longitude>-99.939704</longitude>
+    <odometer>30195</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>K00790</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:52:57</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.630945</latitude>
+    <longitude>-100.118102</longitude>
+    <odometer>21920</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>02AN8Z</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:58:02</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.630915</latitude>
+    <longitude>-100.11808</longitude>
+    <odometer>186361</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>73AS3Z</asset>
+    <code>0</code>
+    <course>Sureste</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:52:15</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>18.020947</latitude>
+    <longitude>-93.373228</longitude>
+    <odometer>131958</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LF118148</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:56:30</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.6308526</latitude>
+    <longitude>-100.1184609</longitude>
+    <odometer>3746</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>95AN7V</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2021-11-21T21:01:43</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.630876</latitude>
+    <longitude>-100.11835</longitude>
+    <odometer>142216</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>W42APD</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:55:41</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.5564778</latitude>
+    <longitude>-100.3790904</longitude>
+    <odometer>42061</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>GX0220G</asset>
+    <code>0</code>
+    <course>Sur</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:55:34</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.494741</latitude>
+    <longitude>-99.927661</longitude>
+    <odometer>23877</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>GE039G</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-05-17T19:23:13</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>21.4809</latitude>
+    <longitude>-104.843036</longitude>
+    <odometer>76619</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>82AS2J</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:56:37</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>18.020468</latitude>
+    <longitude>-93.373312</longitude>
+    <odometer>47378</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>X21AMC</asset>
+    <code>0</code>
+    <course />
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:56:20</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.091823</latitude>
+    <longitude>-98.733716</longitude>
+    <odometer>71282</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>NA</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-08-11T08:11:09</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.6898921</latitude>
+    <longitude>-99.9573175</longitude>
+    <odometer>201508</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>HH1205P</asset>
+    <code>32</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:57:57</date>
+    <direction />
+    <ignition>TRUE</ignition>
+    <latitude>20.570057</latitude>
+    <longitude>-99.899565</longitude>
+    <odometer>24193</odometer>
+    <speed>3</speed>
+  </Event>
+  <Event>
+    <asset>NA</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-07-29T00:22:30</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.6266993</latitude>
+    <longitude>-100.128901</longitude>
+    <odometer>79054</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>336ET4</asset>
+    <code>0</code>
+    <course>Suroeste</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:48:40</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.415715</latitude>
+    <longitude>-99.982139</longitude>
+    <odometer>107597</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>UME244A</asset>
+    <code>0</code>
+    <course>Sur</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:54:30</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.529514</latitude>
+    <longitude>-99.895155</longitude>
+    <odometer>29702</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>42AN8D</asset>
+    <code>0</code>
+    <course>Noreste</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-09-04T18:54:54</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.631089</latitude>
+    <longitude>-100.118231</longitude>
+    <odometer>239052</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>64AJ9X</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>JOSE LUIS GONZALEZ GONZALEZ</name>
+    </customer>
+    <date>2022-04-11T01:19:58</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>20.706697</latitude>
+    <longitude>-99.832613</longitude>
+    <odometer>87948</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 17257316904
+------------------------Request---------------------
+Buscando dispositivos de rdz
+------------------------- Dispositivos encontrados: 0-------------------------
+Sin dispositivos
+------------------------Request---------------------
+Buscando dispositivos de Angelmercado
+------------------------- Dispositivos encontrados: 8-------------------------
+5e55dcdc-a2d3-1159-cbc0-de05d15892f0
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>28AS4E</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:58:58</date>
+    <direction />
+    <ignition>TRUE</ignition>
+    <latitude>19.618528</latitude>
+    <longitude>-99.0016</longitude>
+    <odometer>215678</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LE45752</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-01T22:27:34</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.840216</latitude>
+    <longitude>-99.086837</longitude>
+    <odometer>231829</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LE42991</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:42:25</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.429172</latitude>
+    <longitude>-98.946191</longitude>
+    <odometer>258307</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LD70063</asset>
+    <code>21</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:38:04</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.840207</latitude>
+    <longitude>-99.086771</longitude>
+    <odometer>432419</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LD79354</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:39:45</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.59354</latitude>
+    <longitude>-99.286091</longitude>
+    <odometer>280949</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>74AG2C</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:46:47</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.49817</latitude>
+    <longitude>-99.204148</longitude>
+    <odometer>353462</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>87AR6T</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:58:09</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.2735498</latitude>
+    <longitude>-99.4852997</longitude>
+    <odometer>299444</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LE45757</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>REFRIGERADOS MH</name>
+    </customer>
+    <date>2022-09-04T18:41:36</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.629045</latitude>
+    <longitude>-99.097243</longitude>
+    <odometer>84435</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 17257328586
+------------------------Request---------------------
+Buscando dispositivos de MOGREFRIGERACION
+------------------------- Dispositivos encontrados: 9-------------------------
+83e9c51b-f9c5-c991-d4db-76e02d422275
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>890DE7</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-09-04T04:42:56</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.489788</latitude>
+    <longitude>-99.073074</longitude>
+    <odometer>8</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>58AB9B</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-09-04T18:51:40</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.605264</latitude>
+    <longitude>-99.215088</longitude>
+    <odometer>3383</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>15AK6C</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-09-04T18:56:40</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.605353</latitude>
+    <longitude>-99.215795</longitude>
+    <odometer>16736</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>82AM9E</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-09-04T18:56:46</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.722531</latitude>
+    <longitude>-99.211061</longitude>
+    <odometer>56</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>79AX9C</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-09-04T18:53:18</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.747912</latitude>
+    <longitude>-99.228657</longitude>
+    <odometer>9729</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>07AH1N</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-09-04T18:53:31</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.605635</latitude>
+    <longitude>-99.215979</longitude>
+    <odometer>16661</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>46AA1J</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-09-04T18:50:04</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.747879</latitude>
+    <longitude>-99.228752</longitude>
+    <odometer>4236</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>06AG3T</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-09-04T18:55:36</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.641239</latitude>
+    <longitude>-99.216746</longitude>
+    <odometer>4452</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>398DH7</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-09-04T18:51:53</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.489652</latitude>
+    <longitude>-99.073221</longitude>
+    <odometer>7107</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 17257332443
+------------------------Request---------------------
+Buscando dispositivos de TRANSPORTESLUZRC
+------------------------- Dispositivos encontrados: 7-------------------------
+066aacd7-0106-179d-1bcd-a72148d1fbf1
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>70UN7L</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>TRANSPORTES LIONS SA DE CV</name>
+    </customer>
+    <date>2022-09-04T13:09:23</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>27.732498</latitude>
+    <longitude>-105.197369</longitude>
+    <odometer>80036</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LF55490</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>TRANSPORTES LIONS SA DE CV</name>
+    </customer>
+    <date>2022-09-04T18:52:44</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.605686</latitude>
+    <longitude>-99.270537</longitude>
+    <odometer>25813</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>98AV8D</asset>
+    <code>0</code>
+    <course>Sureste</course>
+    <customer>
+      <id>41013</id>
+      <name>TRANSPORTES LIONS SA DE CV</name>
+    </customer>
+    <date>2022-09-04T18:59:16</date>
+    <direction />
+    <ignition>TRUE</ignition>
+    <latitude>26.388333</latitude>
+    <longitude>-103.936922</longitude>
+    <odometer>129592</odometer>
+    <speed>88</speed>
+  </Event>
+  <Event>
+    <asset>97AV8D</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>TRANSPORTES LIONS SA DE CV</name>
+    </customer>
+    <date>2022-09-04T18:56:40</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.602687</latitude>
+    <longitude>-99.262754</longitude>
+    <odometer>276176</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LD49429</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>TRANSPORTES LIONS SA DE CV</name>
+    </customer>
+    <date>2022-09-04T18:58:20</date>
+    <direction />
+    <ignition>TRUE</ignition>
+    <latitude>19.723267</latitude>
+    <longitude>-99.179672</longitude>
+    <odometer>51936</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LC48620</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>TRANSPORTES LIONS SA DE CV</name>
+    </customer>
+    <date>2022-07-13T07:04:31</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.723229</latitude>
+    <longitude>-99.179594</longitude>
+    <odometer>97020</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LB96718</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>TRANSPORTES LIONS SA DE CV</name>
+    </customer>
+    <date>2022-09-04T18:50:59</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.575443</latitude>
+    <longitude>-99.212523</longitude>
+    <odometer>15267</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 17257333097
+------------------------Request---------------------
+Buscando dispositivos de Telmar2022
+------------------------- Dispositivos encontrados: 3-------------------------
+7f9108e0-2ca2-d5f1-d07f-89fc1ad051ca
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>09AN2F</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>MARIA ELENA MACRINA GUTIERREZ MAYORGA</name>
+    </customer>
+    <date>2022-09-04T18:58:24</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.872039</latitude>
+    <longitude>-99.091748</longitude>
+    <odometer>54200</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>85UG7S</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>MARIA ELENA MACRINA GUTIERREZ MAYORGA</name>
+    </customer>
+    <date>2022-09-04T18:59:01</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.87213</latitude>
+    <longitude>-99.091757</longitude>
+    <odometer>46143</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>98UL5K</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>41013</id>
+      <name>MARIA ELENA MACRINA GUTIERREZ MAYORGA</name>
+    </customer>
+    <date>2022-09-04T18:57:04</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.872046</latitude>
+    <longitude>-99.091604</longitude>
+    <odometer>46140</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 17257333406
+------------------------Request---------------------
+Buscando dispositivos de corsa
+------------------------- Dispositivos encontrados: 11-------------------------
+2b3bcb26-aaeb-db68-d821-3edf1079cb25
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>RY92964</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10450</id>
+      <name>66319</name>
+    </customer>
+    <date>2022-05-16T06:36:57</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.644093</latitude>
+    <longitude>-99.209555</longitude>
+    <odometer>1346</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LF57255</asset>
+    <code>15</code>
+    <course>Norte</course>
+    <customer>
+      <id>10450</id>
+      <name>66319</name>
+    </customer>
+    <date>2022-04-06T10:26:07</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.644205</latitude>
+    <longitude>-99.209531</longitude>
+    <odometer>1976</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>RY92966</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10450</id>
+      <name>66319</name>
+    </customer>
+    <date>2022-08-24T08:31:34</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.634383</latitude>
+    <longitude>-99.234462</longitude>
+    <odometer>57466</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>Ry92965</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10450</id>
+      <name>66319</name>
+    </customer>
+    <date>2022-05-17T01:14:37</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.644044</latitude>
+    <longitude>-99.209552</longitude>
+    <odometer>6031</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>P40ATN</asset>
+    <code>0</code>
+    <course>Oeste</course>
+    <customer>
+      <id>10450</id>
+      <name>66319</name>
+    </customer>
+    <date>2022-09-04T18:57:59</date>
+    <direction />
+    <ignition>TRUE</ignition>
+    <latitude>19.74694</latitude>
+    <longitude>-99.200622</longitude>
+    <odometer>25108</odometer>
+    <speed>8</speed>
+  </Event>
+  <Event>
+    <asset>PEN1796</asset>
+    <code>0</code>
+    <course>Este</course>
+    <customer>
+      <id>10450</id>
+      <name>66319</name>
+    </customer>
+    <date>2022-09-04T18:58:54</date>
+    <direction />
+    <ignition>TRUE</ignition>
+    <latitude>19.736058</latitude>
+    <longitude>-99.198588</longitude>
+    <odometer>21658</odometer>
+    <speed>20</speed>
+  </Event>
+  <Event>
+    <asset>369ZPW</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10450</id>
+      <name>66319</name>
+    </customer>
+    <date>2022-09-04T18:59:01</date>
+    <direction />
+    <ignition>TRUE</ignition>
+    <latitude>19.7366643</latitude>
+    <longitude>-99.1985445</longitude>
+    <odometer>51599</odometer>
+    <speed>35</speed>
+  </Event>
+  <Event>
+    <asset>NZE1398</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10450</id>
+      <name>66319</name>
+    </customer>
+    <date>2022-09-04T18:45:04</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.601984</latitude>
+    <longitude>-99.054311</longitude>
+    <odometer>37079</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>PCH2099</asset>
+    <code>15</code>
+    <course>Norte</course>
+    <customer>
+      <id>10450</id>
+      <name>66319</name>
+    </customer>
+    <date>2022-07-25T19:11:48</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.615155</latitude>
+    <longitude>-99.285613</longitude>
+    <odometer>9119</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>NYT2637</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10450</id>
+      <name>66319</name>
+    </customer>
+    <date>2022-09-04T18:54:58</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.711605</latitude>
+    <longitude>-99.216963</longitude>
+    <odometer>17773</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>NJB2637</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10450</id>
+      <name>66319</name>
+    </customer>
+    <date>2022-09-04T18:54:29</date>
+    <direction />
+    <ignition>FALSE</ignition>
+    <latitude>19.689003</latitude>
+    <longitude>-99.216674</longitude>
+    <odometer>59638</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 17257334455
+

@@ -1,0 +1,13 @@
+﻿<#@ template language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+
+
+SELECT  nombre,placa asset,"eventType" code,latitude, longitude,speed,"inIgnition",
+	to_char("insertTime" , 'YYYY/MM/DD"T"HH24:MI:SS'::text)"eventDate", "distanceTraveled" odometer
+	, "terrainCourse" course
+FROM public."Dispositivo"
+	inner join public."LastDeviceEventN" on "Dispositivo".id="LastDeviceEventN"."dispositivoId"
+	where "idCliente" in (SELECT  "idCliente" FROM public."Usuario"	where usuario= @userVia)

@@ -1,0 +1,180 @@
+18/01/2022 11:50:33 a. m. - Buscando dispositivos de MOG REFRIGERACION
+------------------------- Dispositivos encontrados: 5-------------------------
+5e55dcdc-a2d3-1159-cbc0-de05d15892f0
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>82AM9E</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>MOG REFRIGERACION</name>
+    </customer>
+    <date>2022-01-18T17:49:51</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747866</latitude>
+    <longitude>-99.228803</longitude>
+    <odometer>0</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LF57439</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>MOG REFRIGERACION</name>
+    </customer>
+    <date>2022-01-18T17:49:53</date>
+    <direction>Fraccionamiento Villa de las Flores, 55710 San Francisco Coacalco, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.638125</latitude>
+    <longitude>-99.096829</longitude>
+    <odometer>16</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>A6AA1J</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>MOG REFRIGERACION</name>
+    </customer>
+    <date>2022-01-18T17:47:50</date>
+    <direction>La Providencia, 54010 Tlalnepantla de Baz, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.580837</latitude>
+    <longitude>-99.214512</longitude>
+    <odometer>266</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>07AH1N</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>MOG REFRIGERACION</name>
+    </customer>
+    <date>2022-01-18T17:49:18</date>
+    <direction>Parque Industrial La Luz, 54713 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.692023</latitude>
+    <longitude>-99.200483</longitude>
+    <odometer>1</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>15AK6C</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>MOG REFRIGERACION</name>
+    </customer>
+    <date>2022-01-18T17:49:43</date>
+    <direction>Parque Industrial San Martín Obispo, 54769 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.605237</latitude>
+    <longitude>-99.214898</longitude>
+    <odometer>250</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 11919278429
+
+18/01/2022 04:46:29 p. m. - Buscando dispositivos de MOG REFRIGERACION
+------------------------- Dispositivos encontrados: 5-------------------------
+5e55dcdc-a2d3-1159-cbc0-de05d15892f0
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>82AM9E</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>MOG REFRIGERACION</name>
+    </customer>
+    <date>2022-01-18T22:43:50</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747866</latitude>
+    <longitude>-99.228803</longitude>
+    <odometer>0</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LF57439</asset>
+    <code>20</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>MOG REFRIGERACION</name>
+    </customer>
+    <date>2022-01-18T22:46:07</date>
+    <direction>Calle Tejocote, San José El Jaral I, 52924 Ciudad López Mateos, EDOMEX, México</direction>
+    <ignition>TRUE</ignition>
+    <latitude>19.602421</latitude>
+    <longitude>-99.215381</longitude>
+    <odometer>32</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>07AH1N</asset>
+    <code>0</code>
+    <course>Oeste</course>
+    <customer>
+      <id>0</id>
+      <name>MOG REFRIGERACION</name>
+    </customer>
+    <date>2022-01-18T22:46:05</date>
+    <direction>Avenida Texcoco, Ejido San Cristóbal, 55024 Ecatepec de Morelos, EDOMEX, México</direction>
+    <ignition>TRUE</ignition>
+    <latitude>19.613303</latitude>
+    <longitude>-99.047802</longitude>
+    <odometer>49</odometer>
+    <speed>10</speed>
+  </Event>
+  <Event>
+    <asset>15AK6C</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>MOG REFRIGERACION</name>
+    </customer>
+    <date>2022-01-18T22:44:13</date>
+    <direction>Parque Industrial San Martín Obispo, 54769 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.605217</latitude>
+    <longitude>-99.214856</longitude>
+    <odometer>252</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>A6AA1J</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>0</id>
+      <name>MOG REFRIGERACION</name>
+    </customer>
+    <date>2022-01-18T22:45:58</date>
+    <direction>Parque Industrial San Martín Obispo, 54769 Cuautitlán Izcalli, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.605089</latitude>
+    <longitude>-99.214837</longitude>
+    <odometer>273</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 11926851349
+

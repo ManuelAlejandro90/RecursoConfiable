@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="97b2486d-a476-41c2-b8cc-a1184c4c6920" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://gps.rcontrol.com.mx/Tracking/wcf/RCService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RCService.xsd" MetadataType="Schema" ID="bd8d0f36-a6b3-4ec5-a1f4-77e2ac589782" SourceId="1" SourceUrl="http://gps.rcontrol.com.mx/Tracking/wcf/RCService.svc?xsd=xsd3" />
+    <MetadataFile FileName="RCService1.xsd" MetadataType="Schema" ID="73a9de65-25ed-444b-a0ec-39c3e8f29816" SourceId="1" SourceUrl="http://gps.rcontrol.com.mx/Tracking/wcf/RCService.svc?xsd=xsd2" />
+    <MetadataFile FileName="RCService.wsdl" MetadataType="Wsdl" ID="2795d9dc-ac09-426f-8592-8e23f662e4f8" SourceId="1" SourceUrl="http://gps.rcontrol.com.mx/Tracking/wcf/RCService.svc?wsdl" />
+    <MetadataFile FileName="RCService2.xsd" MetadataType="Schema" ID="0d42c422-a576-4a6d-9ea7-17558d588b0d" SourceId="1" SourceUrl="http://gps.rcontrol.com.mx/Tracking/wcf/RCService.svc?xsd=xsd0" />
+    <MetadataFile FileName="RCService.disco" MetadataType="Disco" ID="ad1fdd0d-6c6d-45eb-9b3b-bfaa341ba803" SourceId="1" SourceUrl="http://gps.rcontrol.com.mx/Tracking/wcf/RCService.svc?disco" />
+    <MetadataFile FileName="RCService3.xsd" MetadataType="Schema" ID="a6675010-387c-40ec-b931-5963cef60437" SourceId="1" SourceUrl="http://gps.rcontrol.com.mx/Tracking/wcf/RCService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

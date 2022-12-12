@@ -1,0 +1,90 @@
+25/01/2022 07:48:53 p. m. - Buscando dispositivos de 0
+------------------------- Dispositivos encontrados: 5-------------------------
+83e9c51b-f9c5-c991-d4db-76e02d422275
+----------------------- XMLRequest ----------------------
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <asset>82AM9E</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-01-26T01:45:39</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747858</latitude>
+    <longitude>-99.228806</longitude>
+    <odometer>0</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>07AH1N</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-01-26T01:48:05</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747832</latitude>
+    <longitude>-99.228789</longitude>
+    <odometer>670</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>LF57439</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-01-26T01:43:07</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747863</latitude>
+    <longitude>-99.228712</longitude>
+    <odometer>878</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>A6AA1J</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-01-26T01:47:48</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747884</latitude>
+    <longitude>-99.22877</longitude>
+    <odometer>461</odometer>
+    <speed>0</speed>
+  </Event>
+  <Event>
+    <asset>15AK6C</asset>
+    <code>0</code>
+    <course>Norte</course>
+    <customer>
+      <id>10361</id>
+      <name>0</name>
+    </customer>
+    <date>2022-01-26T01:47:16</date>
+    <direction>Barrio San Sebastián, 54786 Teoloyucan, EDOMEX, México</direction>
+    <ignition>FALSE</ignition>
+    <latitude>19.747826</latitude>
+    <longitude>-99.228772</longitude>
+    <odometer>400</odometer>
+    <speed>0</speed>
+  </Event>
+</ArrayOfEvent>
+----------------------- Response ----------------------
+idJob: 12065706276
+

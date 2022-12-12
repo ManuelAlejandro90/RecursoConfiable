@@ -1,0 +1,7 @@
+C:\Users\Manuel\source\repos\GetTokenRC\GetTokenRC\bin\Debug\GetTokenRC.exe.config
+C:\Users\Manuel\source\repos\GetTokenRC\GetTokenRC\bin\Debug\GetTokenRC.exe
+C:\Users\Manuel\source\repos\GetTokenRC\GetTokenRC\bin\Debug\GetTokenRC.pdb
+C:\Users\Manuel\source\repos\GetTokenRC\GetTokenRC\obj\Debug\GetTokenRC.csprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\GetTokenRC\GetTokenRC\obj\Debug\GetTokenRC.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\GetTokenRC\GetTokenRC\obj\Debug\GetTokenRC.exe
+C:\Users\Manuel\source\repos\GetTokenRC\GetTokenRC\obj\Debug\GetTokenRC.pdb
